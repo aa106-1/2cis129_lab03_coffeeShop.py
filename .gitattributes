@@ -1,2 +1,19 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+What is your name? Abel
+Your name is Abel
+
+***************************************
+My Coffee and Muffin Shop
+Number of coffees bought?
+1
+Number of muffins bought?
+2
+***************************************
+
+***************************************
+My Coffee and Muffin Shop Receipt
+1 Coffee at $6.75 each: $ 6.75
+2 Muffins at $3.50 each: $ 7.00
+6% tax: $ .80
+---------
+Total: $ 14.55
+***************************************
